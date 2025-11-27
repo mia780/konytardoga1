@@ -1,0 +1,6 @@
+C:\Users\diak\Desktop\mia\kopasz\Konyvtar_App\Konyvtar_App\obj\Debug\Konyvtar_App.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\mia\kopasz\Konyvtar_App\Konyvtar_App\obj\Debug\Konyvtar_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\diak\Desktop\mia\kopasz\Konyvtar_App\Konyvtar_App\obj\Debug\MainWindow.g.cs
+C:\Users\diak\Desktop\mia\kopasz\Konyvtar_App\Konyvtar_App\obj\Debug\App.g.cs
+C:\Users\diak\Desktop\mia\kopasz\Konyvtar_App\Konyvtar_App\obj\Debug\Konyvtar_App_MarkupCompile.cache
+C:\Users\diak\Desktop\mia\kopasz\Konyvtar_App\Konyvtar_App\obj\Debug\Konyvtar_App_MarkupCompile.lref
